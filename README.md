@@ -9,7 +9,7 @@ knowledge. It includes the main algorithm, and has an overview of
 the theoretical statistic background, and some example codes of
 the algorithm.
 
-# Author: Bernardita Ried Guachalla
+## Author: Bernardita Ried Guachalla
 
 Is a undergraduate student of Astronomy and Physics at the Universidad
 de Chile. She is deeply interested into Cosmology and how we can improve
@@ -21,7 +21,7 @@ postdoctoral investigator at CMM, and this tutorial is one of the main
 results of it.
 
 
-# Motivation:
+## Motivation:
 
 Big Data is defined as the set of information in which volume, complexity
 and growth rate render difficult the capture, management and analysis.
