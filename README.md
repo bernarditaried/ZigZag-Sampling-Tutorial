@@ -1,5 +1,8 @@
 # AN INTRODUCTION TO THE ZIG-ZAG SAMPLING
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3238727.svg)](https://doi.org/10.5281/zenodo.3238727)
+
+
 This tutorial is a guide to understanding the Zig-Zag Process, a new sampling method, described in the document <font color="black"> <b> THE ZIG-ZAG PROCESS AND SUPER-EFFICIENT
 SAMPLING FOR BAYESIAN ANALYSIS OF BIG DATA</b> </font> <font color="black"> <i> Bierkens, Fearnhead and Roberts </i> </font> (23 Apr 2018)
  <a href="https://arxiv.org/abs/1607.03188"><i>arXiv 1607.03188v2</i></a>. This document is released with the aim of diffusion and share of knowledge. It includes the main algorithm, and has an overview of the theoretical statistic background, and some example codes of the algorithm.
