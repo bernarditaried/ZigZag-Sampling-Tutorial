@@ -1,6 +1,4 @@
-# ZigZag-Sampling-Tutorial
-
-# AN INTRODUCTION TO THE ZIG-ZAG SAMPLING (BY BERNARDITA RIED)
+# AN INTRODUCTION TO THE ZIG-ZAG SAMPLING
 
 This tutorial is a guide to understanding the Zig-Zag Process, a new sampling method, described in the document <font color="black"> <b> THE ZIG-ZAG PROCESS AND SUPER-EFFICIENT
 SAMPLING FOR BAYESIAN ANALYSIS OF BIG DATA</b> </font> <font color="black"> <i> Bierkens, Fearnhead and Roberts </i> </font> (23 Apr 2018)
