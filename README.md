@@ -21,13 +21,10 @@ results of it.
 
 ## Motivation:
 
-Big Data is defined as the set of information in which volume, complexity
-and growth rate render difficult the capture, management and analysis.
-Machine Learning is the main tool used now a day in scientific investigations
-in order to avoid inefficiency. There is a big expectation for next decade
-related to the amount of data that will be released, for example, in astronomy.
+Big Data is defined as the set of information in which volume, complexity and growth rate difficulties the capture, management and analysis. Machine Learning is the main tool used now a day in scientific investigations in order to avoid inefficiency. There is a big expectation for next decade related to the amount of data that will be released, for example,
+in astronomy.
 
-If anyone has ever asked itself how to estimate values given some sort of
+If anyone had ever asked itself how to estimate values given some sort of
 data, then that person must read this tutorial: It has been created to spread
 the last advances in Bayesian Inference, a section of Machine Learning that
 is used in almost every investigation area of the STEM careers.
